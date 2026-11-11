@@ -27,4 +27,3 @@
 استاد: دکتر سید اکبر مصطفوی
 
 GitHub: https://github.com/fatememohammadzade9425-cmyk/hamayaar-ecommerce
-وب‌سایت مستقرشده: [پس از Deploy تکمیل شود]
